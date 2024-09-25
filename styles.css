@@ -3,3 +3,14 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  display: flex;
+  flex-direction: row;
+}
+
+.box {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+}
